@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Back_EndAPI</RootNamespace>
+    <UserSecretsId>5ca6199b-932f-4ac3-bb39-a7b2c494f58c</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

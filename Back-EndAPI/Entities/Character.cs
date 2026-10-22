@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Back_EndAPI.Entities;
 
-[Table("character")]
+[Table("characters", Schema = "Crud1")]
 public partial class Character
 {
     [Key]
